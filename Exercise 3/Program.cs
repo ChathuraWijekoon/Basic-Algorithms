@@ -15,6 +15,12 @@ class Program
     public static bool Answer(int x, int y)
     {
         return x == 30 || y == 30 || (x + y == 30);
+
+        // ** Same code for above statement **
+        // if (x == 30 || y == 30 || (x + y == 30))
+        // {
+        //     return true;
+        // }
     }
 }
 

@@ -9,6 +9,7 @@ class program
         Console.WriteLine(Values(1,2));
         Console.WriteLine(Values(2,3));
         Console.WriteLine(Values(2,2));
+        Console.WriteLine(Values(3,3));
         Console.ReadLine();
     }
 
